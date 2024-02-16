@@ -1,3 +1,4 @@
+site url https://newbirdapp.onrender.com/
 Learning Goals
 Understand the React build process and how to serve a React app from Flask.
 Understand challenges of client-side routing in a deployed application.
